@@ -1,0 +1,5 @@
+{
+    "name": "hjq/packagetest-for-laravel",
+    "description": "This is a test for the first time to develop a package",
+    "require": {}
+}
